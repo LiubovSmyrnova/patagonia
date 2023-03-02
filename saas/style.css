@@ -152,7 +152,7 @@ i {
   display: none;
 }
 
-@media screen and (min-width: 320px) and (max-width: 480px) {
+@media screen and (max-width: 480px) {
   .patagonia {
     font-size: 36px;
     line-height: 40px;
