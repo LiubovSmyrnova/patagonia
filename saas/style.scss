@@ -18,9 +18,9 @@ header {
   display: flex;
   flex-direction: column;
   height:10vw;
-width: 100%;
-margin: 20px auto;
-align-items: center;
+  width: 100%;
+  margin: 20px auto;
+  align-items: center;
 }
 nav {
   display: flex;
@@ -32,7 +32,6 @@ nav {
   list-style-type: none;
   display: flex;
   flex-direction: row;
-
 }
 .nav_list-item {
   font-family: 'Source Sans Pro';
@@ -44,7 +43,6 @@ nav {
   text-decoration: none;
   padding: 10px;
 }
-
 //.nav_list-item:hover {color:#DBD5D4;transition: background-color 0.3s ease;}//
 .logo {
     font-family: 'Aldrich';
@@ -91,7 +89,6 @@ i {
 }
 .horses {
   display: block;
-
 }
 .horsesphone {
   display: none;
@@ -141,10 +138,9 @@ i {
     line-height: 33px;
   }
   }
-
 @media screen and (min-width: 769px)
 {
-  
+
   .horses {
     display: block;
   }
@@ -154,6 +150,5 @@ i {
   .horsetablet {
     display: none;
   }
-
 }
   
